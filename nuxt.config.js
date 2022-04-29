@@ -5,6 +5,9 @@ export default theme({
   content: {
     liveEdit: false,
   },
+  target: 'static',
+  router: {base: '/mkn1.5'},
+
   docs: {
     primaryColor: '#64748b',
   },
