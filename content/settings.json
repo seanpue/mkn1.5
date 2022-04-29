@@ -1,0 +1,11 @@
+{
+  "title": "Documentation Website",
+  "githubUrl": "https://github.com/grey-software",
+  "gitlabUrl": "https://gitlab.com/grey-software",
+  "discordUrl": "http://community.grey.software",
+  "linkedinUrl": "https://www.linkedin.com/company/grey-software/",
+  "twitter": "grey_software",
+  "gitlabRepoId": "24418903",
+  "gitlabRepoPath": "grey-software/templates/grey-docs",
+  "pathToDocsInRepo": "packages/example"
+}
